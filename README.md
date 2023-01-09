@@ -1,1 +1,9 @@
-# Introduce-yourself-with-a-profile-README
+- Hi, I’m Josh Asuncion
+- I’m interested in programming, along with software and hardware engineering
+- I’m currently learning further uses for programming and cyber security
+- I'm originally from Oahu
+- I'm a sophomore in Computer engineering
+- I chose my major because technology is very interesting
+- A fun fact about me is that I like basketball
+- What do I want to learn from EE 205?  What are the intricacies of software engineering
+- A book or movie I'd recommend is:  Interstellar
